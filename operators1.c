@@ -13,4 +13,3 @@ int main()
 
 } 
 
-in case of float use %f,in case of int use %d
