@@ -2,7 +2,7 @@
 order=3
 formed by adding number multiplied by itself order number of times
 3*3*3 + 7*7*7 + 1*1*1 =371 */
-#include<stdio.h>
+# include <stdio.h>
 int main()
 {
     int number,count=0,result=0,rem,mul=1,cnt;
